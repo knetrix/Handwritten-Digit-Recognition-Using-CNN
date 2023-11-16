@@ -17,8 +17,6 @@ If you like the project, don't forget to give star :blush:
 # Turkish
 ## MNIST Veri Seti ile El Yazısı Rakam Tanıma Projesi
 
-[comment]: <> (![imgMNIST_Handwritten](/Usage.gif))
-
 ### Kullanım
 
 **Python 3.9.6** Sürümü Gereklidir.
